@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-01T18:01:45 EET" name="Default suite" finished-at="2024-10-01T18:03:56 EET" duration-ms="130818">
+    <groups>
+    </groups>
+    <test started-at="2024-10-01T18:01:45 EET" name="Default test" finished-at="2024-10-01T18:03:56 EET" duration-ms="130818">
+      <class name="MyTestCases">
+        <test-method is-config="true" signature="setUpDriver()[pri:0, instance:MyTestCases@373ebf74]" started-at="2024-10-01T18:01:45 EET" name="setUpDriver" finished-at="2024-10-01T18:01:52 EET" duration-ms="6461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpDriver -->
+        <test-method signature="printTheFeedBack()[pri:1, instance:MyTestCases@373ebf74]" started-at="2024-10-01T18:01:52 EET" name="printTheFeedBack" finished-at="2024-10-01T18:03:35 EET" duration-ms="103049" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printTheFeedBack -->
+        <test-method signature="hotelTabAndSearchCities()[pri:2, instance:MyTestCases@373ebf74]" started-at="2024-10-01T18:03:35 EET" name="hotelTabAndSearchCities" finished-at="2024-10-01T18:03:38 EET" duration-ms="2810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hotelTabAndSearchCities -->
+        <test-method signature="vistorNumber()[pri:3, instance:MyTestCases@373ebf74]" started-at="2024-10-01T18:03:38 EET" name="vistorNumber" finished-at="2024-10-01T18:03:38 EET" duration-ms="292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vistorNumber -->
+        <test-method signature="checkinDate()[pri:4, instance:MyTestCases@373ebf74]" started-at="2024-10-01T18:03:38 EET" name="checkinDate" finished-at="2024-10-01T18:03:45 EET" duration-ms="7320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkinDate -->
+        <test-method signature="HotelPageISFullyLoaded()[pri:5, instance:MyTestCases@373ebf74]" started-at="2024-10-01T18:03:45 EET" name="HotelPageISFullyLoaded" finished-at="2024-10-01T18:03:56 EET" duration-ms="10796" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HotelPageISFullyLoaded -->
+      </class> <!-- MyTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
